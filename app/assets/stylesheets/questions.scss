@@ -1,3 +1,24 @@
 // Place all the styles related to the Questions controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
+
+$lightyellow: #ffffe1;
+$lightgrey: #DEDEDE;
+
+#answer{
+  background:$lightyellow;
+  padding: 20px;
+  margin: 10px;
+}
+
+#ask{
+  background:$lightgrey;
+  padding: 20px;
+  margin:10px;
+}
+
+
+
+a{
+  text-decoration: none;
+}
